@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansikasenarath&label=Profile%20views&color=0e75b6&style=flat" alt="hansikasenarath" /> </p>
 
-- 🔭 I’m undergraduate Student **Saegis Campus**
+- 🔭 Graduated from **Saegis Campus** with a **Frirst class** 
 
-- 🌱 I’m currently learning **PHP Python**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
