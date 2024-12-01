@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansika Senarath</h1>
-<h3 align="center">I'm  Graduated from **Saegis Campus** with a **Frirst class** </h3>
+
 <img align ="right" alt ="coding" width=""400" src ="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kpxerw9b8os4ndq5n3uprbfqcr1zpw2t7sn03rgh&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansikasenarath&label=Profile%20views&color=0e75b6&style=flat" alt="hansikasenarath" /> </p>
